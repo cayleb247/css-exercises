@@ -7,3 +7,20 @@
     font-style: 'Times New Roman';
 }
 
+#second {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #00ff0060;
+    font-weight: bold;
+    font-size: 24px
+}
+
+
+
